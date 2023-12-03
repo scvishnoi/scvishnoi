@@ -1,7 +1,7 @@
-Hi, I am a final year Ph.D. candidate at UT Austin and ex-Google intern developing optimization formulations
-and efficient solution algorithms for solving complex real-world problems. I am proficient in various programming languages
-including Python, MATLAB, R, C++, Java, SQL, and shell scripting, and experienced in implementing machine learning
-models, and data ingestion and analysis pipelines.
+Hi, I develop optimization formulations and efficient solution algorithms for solving complex real-world problems.
+I am proficient in various programming languages including Python, MATLAB, R, C++, Java, SQL, and shell scripting,
+and experienced in implementing machine learning models, and data ingestion and analysis pipelines. I have a Ph.D.
+from UT Austin and a Bachelor's degree from IIT Roorkee.
 
 Technical repertoire:\
 Analytical Skills: Regression, Classification, Clustering, Time Series Forecasting, Missing Data Imputation,
